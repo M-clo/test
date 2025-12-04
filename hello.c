@@ -2,6 +2,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello, Version Control!\n");
+    printf("Hello, Branch!\n");
     return 0;
 }
